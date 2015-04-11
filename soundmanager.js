@@ -7,7 +7,7 @@ function loadSounds() {
 	
 	var sounds = [
 		{src: "feelingit.ogg", id: "feels"},
-		{src: "gaurplains.mp3", id: "gaurplains"}
+		{src: "mainmusic.mp3", id: "gaurplains"}
 	];
 	createjs.Sound.alternateExtensions = ["mp3"];
 	
